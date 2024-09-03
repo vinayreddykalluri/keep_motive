@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "409109936716",
+    "project_id": "keep-motive",
+    "storage_bucket": "keep-motive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409109936716:android:e2708851ba51af877f12e9",
+        "android_client_info": {
+          "package_name": "com.keep_motive.keep_motive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJbSsxZtaaStSYtEsPwjxd8sz_XY8EwGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
